@@ -1,4 +1,4 @@
-Precinct,Registered_Voters,absentee_TaylorRehmet,early_TaylorRehmet,election_TaylorRehmet,totalVotes_TaylorRehmet,absentee_LeighWambsganss,early_LeighWambsganss,election_LeighWambsganss,totalVotes_LeighWambsganss,Total,VTD,CountyFIPS,County,CNTY,CNTYVTD,VTDKEY,total,anglo,nanglo,asian,black,hisp,bh,vap,anglovap,nanglovap,asianvap,blackvap,hispvap,bhvap
+Precinct,Registered_Voters,Absentee_TaylorRehmet,Early_TaylorRehmet,Election_TaylorRehmet,TotalVotes_TaylorRehmet,Absentee_LeighWambsganss,Early_LeighWambsganss,Election_LeighWambsganss,TotalVotes_LeighWambsganss,TotalVotesAll,VTD,CountyFIPS,County,CNTY,CNTYVTD,VTDKEY,total,anglo,nanglo,asian,black,hisp,bh,vap,anglovap,nanglovap,asianvap,blackvap,hispvap,bhvap
 1001,1940,3,99,98,200,1,43,45,89,289,1001,439,TARRANT,439,2201001,7895,2240,1367,873,98,377,341,702,2026,1302,724,86,306,276,571
 1005,942,3,21,51,75,0,1,2,3,78,1005,439,TARRANT,439,2201005,7897,1471,65,1406,20,791,595,1378,1037,56,981,17,578,381,955
 1008,314,1,12,24,37,0,0,6,6,43,1008,439,TARRANT,439,2201008,7898,589,40,549,10,184,356,536,421,38,383,7,147,227,371
